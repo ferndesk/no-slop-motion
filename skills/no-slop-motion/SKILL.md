@@ -1,6 +1,7 @@
 ---
 name: no-slop-motion
-description: Make a launch film, brand film, product announcement or promo video for a company that looks directed, not AI-generated. Use when someone asks for a launch video, brand video, sizzle, promo, product film or "a video for our brand/X/LinkedIn launch", or when an AI-made video "feels vibe coded", "looks like a slideshow", or keeps getting rejected. Covers the whole path: customer pain research, script, voiceover, world and style frames, optional mascot or hero object, animatic, HTML motion build (HyperFrames + GSAP), music, sound, QA and platform export.
+description: >-
+  Make a launch film, brand film, product announcement or promo video for a company that looks directed, not AI-generated. Use when someone asks for a launch video, brand video, sizzle, promo, product film or "a video for our brand/X/LinkedIn launch", or when an AI-made video "feels vibe coded", "looks like a slideshow", or keeps getting rejected. Covers the whole path: customer pain research, script, voiceover, world and style frames, optional mascot or hero object, animatic, HTML motion build (HyperFrames + GSAP), music, sound, QA and platform export.
 ---
 
 # No-slop motion
